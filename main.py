@@ -258,9 +258,9 @@ while not Nyert:
                     elif inp == "kilepes":
                         exit()
                     else:
-                        print("hibás input")
+                        print("hibas input")
                 else:
-                    print("hibás input")
+                    print("hibas input")
 
 if not Nyert:
     print("Vesztettél!")

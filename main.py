@@ -15,11 +15,11 @@ def szerencseproba():
     if Jatekos.Elixir:
         if duplakockadobas()+1 <= Jatekos.Luck:
             Jatekos.minuszluck(1)
-            print("Szerencséd volt!")
+            print("szerencséd volt!")
             return True
         else:
             Jatekos.minuszluck(1)
-            print("Nem szerencséd volt!")
+            print("Nem volt szerencséd!")
             return False
     else:
         if duplakockadobas() <= Jatekos.Luck:

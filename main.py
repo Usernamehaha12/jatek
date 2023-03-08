@@ -199,7 +199,7 @@ while not Nyert:
         break
 
     # lépések
-    if "rollllll" in advDict['kaland'][Jatekos.lokacio]['akcio']:
+    if "rolllll" in advDict['kaland'][Jatekos.lokacio]['akcio']:
         while True:
             if kockadobas()>4:
                 LepettEMar = True

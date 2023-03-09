@@ -268,7 +268,7 @@
       "ugras": [27]
     },
     "49": {
-      "szoveg": "A növénykének valóban mágikus gyógyító tulajdonsága van, és még szerencsét is hoz. Nyersz 4 ÉLETERO pontot, SZERENCSE pontjaid pedig mostantól kezdve nem fognak 6 alá menni. Az északi ajtón át távozol. Lapozz a 152-re.",
+      "szoveg": "A növénykének vaaban mágikus gyógyító tulajdonsága van, és még szerencsét is hoz. Nyersz 4 ÉLETERO pontot, SZERENCSE pontjaid pedig mostantól kezdve nem fognak 6 alá menni. Az északi ajtón át távozol. Lapozz a 152-re.",
       "akcio": ["Eleteronyeres", "luckblessing"],
       "ertek": 4,
       "ugras": [152]
@@ -279,7 +279,7 @@
       "ugras": [143]
     },
     "51": {
-      "szoveg": "Egy kis helyiségbe nyitsz be, mely első ránézésre nem tartalmaz semmi mást, csak nagy halom törmeléket a padlón. Ahogy beljebb lépsz, kellemetlen szag csapja meg az orrodat, és egy éles, magas és - amennyire meg tudod állapítani - dühödt visítás kezd egyre erősödni. Végül egy rikoltás kiséretében két hatalmas Denevér ereszti el a plafont a szoba két sarkában, és feléd kezdenek repülni. Ahogy ösztönösen lebuksz, sikerül észrevenned a lények vicsorgó agyarait, melyek készek szétcincálni a torkodat. Ha gyorsan kihátrálsz, majd becsapod magad mögött a bejárati ajtót, lapozz a 80-ra. Hogyha megveted a lábad és megküzdesz ezekkel a szörnyű teremtményekkel, lapozz a 140-re.",
+      "szoveg": "Egy kis helyiségbe nyitsz be, maely első ránézésre nem tartalmaz semmi mást, csak nagy halom törmeléket a padlón. Ahogy beljebb lépsz, kellemetlen szag csapja meg az orrodat, és egy éles, magas és - amennyire meg tudod állapítani - dühödt visítás kezd egyre erősödni. Végül egy rikoltás kiséretében két hatalmas Denevér ereszti el a plafont a szoba két sarkában, és feléd kezdenek repülni. Ahogy ösztönösen lebuksz, sikerül észrevenned a lények vicsorgó agyarait, melyek készek szétcincálni a torkodat. Ha gyorsan kihátrálsz, majd becsapod magad mögött a bejárati ajtót, lapozz a 80-ra. Hogyha megveted a lábad és megküzdesz ezekkel a szörnyű teremtményekkel, lapozz a 140-re.",
       "akcio": [],
       "ugras": [80, 140]
     },
